@@ -169,6 +169,7 @@ public class MainActivity extends AppCompatActivity implements TextToSpeech.OnIn
     }
 
     //test commit 2
+    //test commit 3
     private void getStringToSpeak(){
 
         stringToSpeak = getString(R.string.sleep);
