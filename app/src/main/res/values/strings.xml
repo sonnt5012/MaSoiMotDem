@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MaSoiMotDem</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="sleep">Mọi người đi ngủ đi nào........................................</string>
+    <string name="fox">Cáo ơi, thức dậy đi nào. Sói giờ ngón tay cái lên cho cáo nhận diện. 1......2......3......4......5......6......7........ Cáo đi ngủ..................</string>
+    <string name="eyes">Tiên tri ơi, thức dậy đi nào. Tiên tri xem 1 lá bài bất kỳ. 1......2......3......4......5......6......7......8......9......10........ Tiên tri đi ngủ..................</string>
+    <string name="thief">Kẻ trộm ơi, thức dậy đi nào. Kẻ trộm được tráo bài mình với người khác và Xem lá bài Vừa lấy được. 1......2......3......4......5......6......7......8......9......10....... Kẻ trộm đi ngủ..................</string>
+    <string name="drunk">Say rượu ơi, thức dậy đi nào. Say rượu được tráo 2 lá bài bất kỳ. 1......2......3......4......5......6......7......8......9......10........ Say rượu đi ngủ..................</string>
+    <string name="silent">Pháp sư câm ơi, thức dậy đi nào. Pháp sư câm cho 1 người bất kỳ im lặng. 1......2......3......4......5......6......7......8........ Pháp sư câm đi ngủ..................</string>
+    <string name="wake_up">Bình minh ló ó ó ó dạng.</string>
+
+</resources>
